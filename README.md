@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://lucas.vincz.fr)
+- 🔭 I’m currently working on [An apoi centraliser for devs team or personal use](https://apicentraliser.vincz.fr)
 
 - 🌱 I’m currently learning **Cybersecurity, C and JavaScript**
 
