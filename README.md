@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate FullStack developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dankdown10256&label=Profile%20views&color=0e75b6&style=flat" alt="dankdown10256" /> </p>
-
 - 🔭 I’m currently working on [an API Centralizer for devs teams or personnal use](https://apicentraliser.vincz.fr)
 
 - 🌱 I’m currently learning **JavaScript and to cowork with Claude Code**
