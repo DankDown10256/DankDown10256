@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate FullStack developer from France</h3>
+<h3 align="center">A passionate Frontend developer from France</h3>
 
 - 🔭 I’m currently working on [an API Centralizer for devs teams or personnal use](https://apicentraliser.vincz.fr)
 
