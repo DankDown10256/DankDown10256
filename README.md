@@ -21,7 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/dankdown10256"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dankdown10256" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dankdown10256&show_icons=true&locale=en&layout=compact" alt="dankdown10256" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dankdown10256&" alt="dankdown10256" /></p>
