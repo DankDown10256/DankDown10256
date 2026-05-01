@@ -1,23 +1,51 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate Frontend developer from France</h3>
+# Lucas — Fullstack Developer
 
-- 🔭 I’m currently working on [an API Centralizer for devs teams or personnal use](https://apicentraliser.vincz.fr)
+French fullstack developer with a focus on backend systems, low-level programming, and DevOps practices. I build things that work, that are maintainable, and that run on Linux.
 
-- 🌱 I’m currently learning **JavaScript and to cowork with Claude Code**
+---
 
-- 👨‍💻 All of my projects are available at [https://lucas.vincz.fr](https://lucas.vincz.fr)
+## Stack
 
-- 💬 Ask me about **HTML, CSS, Python, Flask and Hyprland or Linux**
+**Languages**
 
-- 📫 How to reach me **lucas.poupeau@gmail.com**
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dankdown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dankdown" height="30" width="40" /></a>
-</p>
+**Frameworks & Tools**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/dankdown10256"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dankdown10256" /></a></p><br><br>
+---
+
+## Currently learning
+
+- Systems programming in **C**
+- **Rust** and the **Axum** web framework
+
+---
+
+## Featured project
+
+**[rust_project_templates_generator](https://github.com/DankDown10256/rust_project_templates_generator/)** — A CLI tool to scaffold Rust projects from templates, written in Rust.
+
+---
+
+## Contact
+
+- Portfolio: [lucas.vincz.fr](https://lucas.vincz.fr)
+- Email: lucas.poupeau@gmail.com
+- Dev.to: [dev.to/dankdown](https://dev.to/dankdown)
+
+---
+
+<a href="https://ko-fi.com/dankdown10256"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Support me on Ko-fi"/></a>
