@@ -24,7 +24,7 @@ French fullstack developer with a focus on backend systems, low-level programmin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
-![TypeScript](https://github.com/ellerbrock/typescript-badges/)
+![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)
 
 ---
 
