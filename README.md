@@ -18,8 +18,8 @@ lucas@github ~ % fastfetch
 ```
          _nnnn_                     lucas@dankdown
         dGGGGMMb                    ──────────────────────────────
-       @p~qp~~qMb                   Uptime   writing code since ~3 ans
-       M|@||@) M|                   Kernel   Linux contributor ✓
+       @p~qp~~qMb                   Uptime   writing code since ~5 years
+       M|@||@) M|                   Kernel   Linux
        @,----.JM|                   
       JS^\__/  qKL                  ──────────────────────────────
      dZP        qKRb                ROLE     Fullstack Developer
