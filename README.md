@@ -34,8 +34,8 @@ _)      \.___.,|     .'
 
 ```yaml
 Languages:
-  ████████████████████  C          — Contributions kernel, CLI tools, bas niveau
-  ████████████████████  Python     — Flask, REST APIs, plateformes web déployées
+  ██████████░░░░░░░░░░  C          — Contributions kernel, CLI tools, bas niveau
+  █████████████░░░░░░░  Python     — Flask, REST APIs, plateformes web déployées
   ████████████████░░░░  Rust       — Axum, CLI tools (project templates generator)
   ████████████████░░░░  Java       — Expérience professionnelle
   ██████████████░░░░░░  TypeScript — Projets collaboratifs (Koda)
