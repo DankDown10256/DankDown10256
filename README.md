@@ -25,8 +25,8 @@ _)      \.___.,|     .'
 
 ## $ whoami
 
-> Développeur fullstack avec une vraie passion pour la programmation systèmes — du bas niveau en C aux APIs Rust avec Axum, en passant par des backends Python/Flask bien foutus.  
-> Contributeur au noyau Linux. Ricemaster Gentoo. Fervent partisan de la philosophie suckless.
+> Fullstack developer with a genuine passion for systems programming — from low-level C to Rust APIs with Axum, and solid Python/Flask backends along the way.  
+> Linux kernel contributor. Gentoo ricemaster. Firm believer in the suckless philosophy.
 
 ---
 
@@ -34,14 +34,14 @@ _)      \.___.,|     .'
 
 ```yaml
 Languages:
-  ██████████░░░░░░░░░░  C          — Contributions kernel, CLI tools, bas niveau
-  █████████████░░░░░░░  Python     — Flask, REST APIs, plateformes web déployées
+  ██████████░░░░░░░░░░  C          — Kernel, CLI tools, low end
+  █████████████░░░░░░░  Python     — Flask, REST APIs, Web Apps in prod
   ████████████████░░░░  Rust       — Axum, CLI tools (project templates generator)
-  ████████████████░░░░  Java       — Expérience professionnelle
-  ██████████████░░░░░░  TypeScript — Projets collaboratifs (Koda)
+  ██████░░░░░░░░░░░░░░  Java       — Basic Level
+  ██████████████░░░░░░  TypeScript — Collaborative Projects (Koda)
   ██████████████░░░░░░  JavaScript — Frontend
-  ████████████░░░░░░░░  Go         — Dans la stack
-  ██████████░░░░░░░░░░  Bash/Shell — Scripts, automatisation, ricing
+  █████░░░░░░░░░░░░░░░  Go         — Basic Level
+  ██████████░░░░░░░░░░  Bash/Shell — Scripts, Ricing
 
 Frontend:
   HTML5 · CSS3 · JavaScript · TypeScript
@@ -56,13 +56,19 @@ Backend & Infra:
 
 | Projet | Stack | Description |
 |--------|-------|-------------|
-| [**API Centraliser**](https://apicentraliser.dankdown.fr) | Python · Flask | Dashboard pour centraliser et suivre les coûts d'APIs |
-| [**Config-Vault**](https://configvault.dankdown.fr) | Python · Flask | Stockage de templates de config pour devs |
-| [**MUDT**](https://devtools.dankdown.fr) | Python · Flask | Suite d'outils dev centralisés par spécialisation |
+| [**Procsnap**](https://github.com/DankDown10256/procsnap) | C | Lightweight CLI process profiler following suckless philosophy. |
+| [**API Centraliser**](https://apicentraliser.dankdown.fr) | Python · Flask | Dashboard to help devs to centralize their APIs |
+| [**Config-Vault**](https://configvault.dankdown.fr) | Python · Flask | Vault to stock devs templates like CI/CD... |
+| [**MUDT**](https://devtools.dankdown.fr) | Python · Flask | Centralized website with little dev tools. |
 | [**Mon Parcours d'Aidant**](https://monparcoursdaidants.dankdown.fr) | Python · Flask | Plateforme d'aide pour aidants de personnes handicapées |
-| [**rust_project_templates_generator**](https://github.com/DankDown10256/rust_project_templates_generator) | Rust · CLI | Générateur d'arborescences de projets (Flask, Rust, Web) |
-| [**Koda**](https://koda.vincz.fr) | TypeScript | Plateforme collaborative de mise en production |
-| [**hyprland_dotfiles**](https://github.com/DankDown10256/hyprland_dotfiles) | Shell · Linux | Dotfiles Hyprland personnalisés |
+| [**rust_project_templates_generator**](https://github.com/DankDown10256/rust_project_templates_generator) | Rust · CLI | Generate projects tree in second |
+| [**Koda**](https://koda.vincz.fr) | Rust | Collaborative platform to product website or more for devs team |
+| [**hyprland_dotfiles**](https://github.com/DankDown10256/hyprland_dotfiles) | Shell · Linux | Hyprland config files |
+| [**dwm fork**](https://github.com/DankDown10256/dwm) | C | My personal patched dwm fork |
+| [**suckless**](https://github.com/DankDown10256/suckless) | C | All my personal patched fork of suckless tools |
+| [**Picom**](https://github.com/DankDown10256/picom) | LibConfig | My personal picom config for my dwm suckless rice |
+| [**Doom Emacs**](https://github.com/DankDown10256/doom-emacs) | Elisp (Emacs Lisp) | My personal Doom Emacs config (Themes and decommented features) |
+| [**LazyVim**](https://github.com/DankDown10256/lazyvim) | Lua | My personal LazyVim Config (Themes) |
 
 ---
 
