@@ -55,6 +55,7 @@ A Rust CLI that scaffolds project templates in seconds, so I stop copy-pasting b
   <img src="https://img.shields.io/badge/TypeScript-181616?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-181616?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-181616?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5" alt="JavaScript"/>
 </p>
 
 **Backend**
@@ -82,8 +83,7 @@ Also into low-level C, Rust, and diving into the Linux kernel when I want to see
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DankDown10256&show_icons=true&hide_border=true&bg_color=181616&title_color=c4b28a&text_color=c5c9c5&icon_color=8ba4b0" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankDown10256&layout=compact&hide_border=true&bg_color=181616&title_color=c4b28a&text_color=c5c9c5" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DankDown10256&theme=dark&background=181616&stroke=181616&ring=8ba4b0&fire=c4746e&currStreakLabel=c4b28a" alt="GitHub Stats"/>
 </p>
 
 ---
