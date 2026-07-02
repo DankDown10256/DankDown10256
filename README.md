@@ -1,104 +1,99 @@
-```
-lucas@github ~ % fastfetch
-```
+<h1 align="center">Lucas Poupeau</h1>
+<p align="center"><b>Fullstack Developer</b> — TypeScript · Python · Rust</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open%20to%20opportunities-8a9a7b?style=flat&labelColor=181616" alt="Open to opportunities"/>
+</p>
 
-```
-         _nnnn_                     lucas@dankdown
-        dGGGGMMb                    ──────────────────────────────
-       @p~qp~~qMb                   Uptime   writing code since ~5 years
-       M|@||@) M|                   Kernel   Linux
-       @,----.JM|                   
-      JS^\__/  qKL                  ──────────────────────────────
-     dZP        qKRb                ROLE     Fullstack Developer
-    dZP          qKKb               FOCUS    Systems · Backend · DevOps
-   fZP            SMMb              MOOD     ☕ cappuccino + code lofi
-   HZM            MMMM              
-   FqM            MMMM              
- __| ".        |\dS"qML             
- |    `.       | `' \Zq             
-_)      \.___.,|     .'             
-\____   )MMMMMP|   .'              
-     `-'       `--'                 
-```
+<p align="center">
+  <a href="https://portfolio.dankdown.fr"><img src="https://img.shields.io/badge/Portfolio-portfolio.dankdown.fr-8ba4b0?style=flat&labelColor=181616" alt="Portfolio"/></a>
+  <a href="mailto:lucasp.linux@gmail.com"><img src="https://img.shields.io/badge/Email-lucasp.linux%40gmail.com-c4746e?style=flat&labelColor=181616" alt="Email"/></a>
+</p>
 
 ---
 
-## $ whoami
+## About
 
-> Fullstack developer with a genuine passion for systems programming — from low-level C to Rust APIs with Axum, and solid Python/Flask backends along the way.  
-> Linux kernel contributor. Gentoo ricemaster. Firm believer in the suckless philosophy.
+I'm a fullstack developer who likes building things end to end — clean APIs, solid data layers, and interfaces that don't get in the way. My daily stack is **TypeScript** on the frontend, with **Python/Flask** and **Rust/Axum** doing the heavy lifting on the backend. I care about performance and code that's actually maintainable six months later, not just at ship time.
 
----
-
-## $ cat /proc/skills
-
-```yaml
-Languages:
-  ██████████░░░░░░░░░░  C          — Kernel, CLI tools, low end
-  █████████████░░░░░░░  Python     — Flask, REST APIs, Web Apps in prod
-  ████████████████░░░░  Rust       — Axum, CLI tools (project templates generator)
-  ██████░░░░░░░░░░░░░░  Java       — Basic Level
-  ██████████████░░░░░░  TypeScript — Collaborative Projects (Koda)
-  ██████████████░░░░░░  JavaScript — Frontend
-  █████░░░░░░░░░░░░░░░  Go         — Basic Level
-  ██████████░░░░░░░░░░  Bash/Shell — Scripts, Ricing
-
-Frontend:
-  HTML5 · CSS3 · JavaScript · TypeScript
-
-Backend & Infra:
-  Flask · Axum · Docker · Git · Linux · Kernel patching
-```
+I also run my own CI/CD pipeline and self-hosted infra for my projects, because I like knowing exactly what's happening under my code, not just on top of it.
 
 ---
 
-## $ ls ~/projects
+## Projects
 
-| Projet | Stack | Description |
-|--------|-------|-------------|
-| [**Procsnap**](https://github.com/DankDown10256/procsnap) | C | Lightweight CLI process profiler following suckless philosophy. |
-| [**API Centraliser**](https://apicentraliser.dankdown.fr) | Python · Flask | Dashboard to help devs to centralize their APIs |
-| [**Config-Vault**](https://configvault.dankdown.fr) | Python · Flask | Vault to stock devs templates like CI/CD... |
-| [**MUDT**](https://devtools.dankdown.fr) | Python · Flask | Centralized website with little dev tools. |
-| [**Mon Parcours d'Aidant**](https://monparcoursdaidants.dankdown.fr) | Python · Flask | Plateforme d'aide pour aidants de personnes handicapées |
-| [**rust_project_templates_generator**](https://github.com/DankDown10256/rust_project_templates_generator) | Rust · CLI | Generate projects tree in second |
-| [**Koda**](https://koda.vincz.fr) | Rust | Collaborative platform to product website or more for devs team |
-| [**hyprland_dotfiles**](https://github.com/DankDown10256/hyprland_dotfiles) | Shell · Linux | Hyprland config files |
-| [**dwm fork**](https://github.com/DankDown10256/dwm) | C | My personal patched dwm fork |
-| [**suckless**](https://github.com/DankDown10256/suckless) | C | All my personal patched fork of suckless tools |
-| [**Picom**](https://github.com/DankDown10256/picom) | LibConfig | My personal picom config for my dwm suckless rice |
-| [**Doom Emacs**](https://github.com/DankDown10256/doom-emacs) | Elisp (Emacs Lisp) | My personal Doom Emacs config (Themes and decommented features) |
-| [**LazyVim**](https://github.com/DankDown10256/lazyvim) | Lua | My personal LazyVim Config (Themes) |
+### 🔍 [procsnap](https://github.com/DankDown10256/procsnap)
+A minimalist Linux process profiler written in C. Lightweight, fast, no bloat — built with the same philosophy I bring to every project: do one thing, do it well.
 
----
+<p>
+  <img src="https://img.shields.io/badge/C-181616?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/GPLv2-181616?style=flat" alt="GPLv2"/>
+</p>
 
-## $ cat /etc/kernel/patches.conf
+### 🌐 [Portfolio](https://portfolio.dankdown.fr)
+My personal site, deployed through a self-hosted CI/CD pipeline (Kaniko → private registry → Portainer). Built to be fast, simple, and fully under my own control.
 
-```
-Subsystems touched:  staging · bpf · lib · net · bluetooth
-Reviewed by:         Greg KH · Andrew Morton · Alexei Starovoitov
-Toolchain:           sparse · smatch · checkpatch.pl
-Mail:                lucasp.linux@gmail.com
-Status:              active ✓
-```
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-181616?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Docker-181616?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+### ⚙️ [rust_project_templates_generator](https://github.com/DankDown10256)
+A Rust CLI that scaffolds project templates in seconds, so I stop copy-pasting boilerplate between projects. MIT licensed.
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-181616?style=flat&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/MIT-181616?style=flat" alt="MIT"/>
+</p>
 
 ---
 
+## Skills
 
-## $ ping -c 1 dankdown.fr
+**Frontend**
 
-```
-PING dankdown.fr: portfolio · github · ko-fi
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-181616?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-181616?style=flat&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-181616?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-181616?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-  🌐  portfolio.dankdown.fr
-  🐙  github.com/DankDown10256
-  ☕  ko-fi.com/dankdown
+**Backend**
 
-1 packets transmitted, 3 links returned, 0% packet loss
-```
+<p>
+  <img src="https://img.shields.io/badge/Python-181616?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-181616?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Rust-181616?style=flat&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Axum-181616?style=flat&logo=rust&logoColor=white" alt="Axum"/>
+  <img src="https://img.shields.io/badge/Node.js-181616?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+**Tools & Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-181616?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-181616?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-181616?style=flat&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Portainer-181616?style=flat&logo=portainer&logoColor=white" alt="Portainer"/>
+</p>
+
+Also into low-level C, Rust, and diving into the Linux kernel when I want to see how things really work under the hood.
 
 ---
 
-<div align="center">
-  <sub>Built with patience and intention — like good coffee ☕</sub>
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DankDown10256&show_icons=true&hide_border=true&bg_color=181616&title_color=c4b28a&text_color=c5c9c5&icon_color=8ba4b0" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankDown10256&layout=compact&hide_border=true&bg_color=181616&title_color=c4b28a&text_color=c5c9c5" alt="Top Languages"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:lucasp.linux@gmail.com"><img src="https://img.shields.io/badge/Email-lucasp.linux%40gmail.com-c4746e?style=flat&labelColor=181616" alt="Email"/></a>
+</p>
+
+<p align="center"><i>Let's build something.</i></p>
