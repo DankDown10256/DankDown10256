@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a fullstack developer who likes building things end to end — clean APIs, solid data layers, and interfaces that don't get in the way. My daily stack is **JavaScript** on the frontend, with **Python/Flask** and **Rust/Axum** doing the heavy lifting on the backend. I care about performance and code that's actually maintainable six months later, not just at ship time.
+I'm a fullstack developer who likes building things end to end clean APIs, solid data layers, and interfaces that don't get in the way. My daily stack is **JavaScript** on the frontend, with **Python/Flask** and **Rust/Axum** doing the heavy lifting on the backend. I care about performance and code that's actually maintainable six months later, not just at ship time.
 
 I also run my own CI/CD pipeline and self-hosted infra for my projects, because I like knowing exactly what's happening under my code, not just on top of it.
 
