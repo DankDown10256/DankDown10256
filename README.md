@@ -30,14 +30,14 @@ A minimalist Linux process profiler written in C. Lightweight, fast, no bloat �
 </p>
 
 ### 🌐 [Portfolio](https://portfolio.dankdown.fr)
-My personal site, deployed through a self-hosted CI/CD pipeline (Kaniko → private registry → Portainer). Built to be fast, simple, and fully under my own control.
+My personal site, deployed through a self-hosted CI/CD pipeline (Self Hosted git client → private registry → Portainer). Built to be fast, simple, and fully under my own control.
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-181616?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Docker-181616?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-### ⚙️ [rust_project_templates_generator](https://github.com/DankDown10256)
+### ⚙️ [project-gen](https://github.com/DankDown10256/project-gen)
 A Rust CLI that scaffolds project templates in seconds, so I stop copy-pasting boilerplate between projects. MIT licensed.
 
 <p>
@@ -53,7 +53,6 @@ A Rust CLI that scaffolds project templates in seconds, so I stop copy-pasting b
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-181616?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-181616?style=flat&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-181616?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-181616?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
@@ -65,7 +64,6 @@ A Rust CLI that scaffolds project templates in seconds, so I stop copy-pasting b
   <img src="https://img.shields.io/badge/Flask-181616?style=flat&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Rust-181616?style=flat&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Axum-181616?style=flat&logo=rust&logoColor=white" alt="Axum"/>
-  <img src="https://img.shields.io/badge/Node.js-181616?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
 **Tools & Infra**
