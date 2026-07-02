@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Poupeau</h1>
-<p align="center"><b>Fullstack Developer</b> — TypeScript · Python · Rust</p>
+<p align="center"><b>Fullstack Developer</b> — JavaScript · Python · Rust</p>
 <p align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20opportunities-8a9a7b?style=flat&labelColor=181616" alt="Open to opportunities"/>
 </p>
@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a fullstack developer who likes building things end to end — clean APIs, solid data layers, and interfaces that don't get in the way. My daily stack is **TypeScript** on the frontend, with **Python/Flask** and **Rust/Axum** doing the heavy lifting on the backend. I care about performance and code that's actually maintainable six months later, not just at ship time.
+I'm a fullstack developer who likes building things end to end — clean APIs, solid data layers, and interfaces that don't get in the way. My daily stack is **JavaScript** on the frontend, with **Python/Flask** and **Rust/Axum** doing the heavy lifting on the backend. I care about performance and code that's actually maintainable six months later, not just at ship time.
 
 I also run my own CI/CD pipeline and self-hosted infra for my projects, because I like knowing exactly what's happening under my code, not just on top of it.
 
