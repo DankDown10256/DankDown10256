@@ -1,30 +1,40 @@
-<h1 align="center">Hi 👋, I'm Lucas Poupeau</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<img align="left" src="https://github.com/DankDown10256.png" width="120" style="border-radius:50%">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dankdown10256" alt="dankdown10256" /></a> </p>
+### Hey!
 
-- 🔭 I’m currently working on [procsnap](https://github.com/DankDown10256/procsnap)
+👨‍💻 I'm **Lucas**, aka **DankDown10256**.
 
-- 🌱 I’m currently learning **C**
+🌐 **Fullstack web** dev — TypeScript, Python/Flask, Rust/Axum, DevOps.
 
-- 👯 I’m looking to collaborate on **any project feel free to contact me**
+⚙️ I also work with **C** and **low-level** languages, with contributions to the **Linux kernel**.
 
-- 👨‍💻 All of my projects are available at [portfolio.dankdown.fr](portfolio.dankdown.fr)
+[![github](https://img.shields.io/badge/github-DankDown10256-313131?style=flat&labelColor=545454&color=313131)](https://github.com/DankDown10256) [![email](https://img.shields.io/badge/email-lucasp.linux%40gmail.com-313131?style=flat&labelColor=545454&color=313131)](mailto:lucasp.linux@gmail.com) [![views](https://komarev.com/ghpvc/?username=DankDown10256&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/DankDown10256)
 
-- 💬 Ask me about **Frontend, Backend**
+<br>
+<br>
+<br>
 
-- 📫 How to reach me **lucasp.linux@gmail.com**
+#### 🌀 Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+| **Rust / C** | **Web / Other** |
+| --- | --- |
+| • [procsnap](https://github.com/DankDown10256/procsnap) - A minimalist Linux process profiler, written in C (GPLv2) | • [portfolio.dankdown.fr](https://portfolio.dankdown.fr) - My portfolio, CI/CD pipeline that fetches the LKML feed |
+| • [project-gen](https://github.com/DankDown10256/project-gen) - Rust CLI for generating project templates (MIT) | • [apicentraliser.dankdown.fr](https://apicentraliser.dankdown.fr) - API centralizer built with Flask (PBKDF2, Fernet, SSE) |
+| • *(to be added)* | • *(to be added)* |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### 🛠️ What am I working on?
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/dankdown"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dankdown" /></a></p><br><br>
+| **Category** | **Description** |
+| --- | --- |
+| **Maintaining** | [procsnap](https://github.com/DankDown10256/procsnap) – Linux process profiler written in C. |
+| **Building** | My self-hosted infra under `dankdown.fr` (Portainer, Kaniko, CI/CD). |
+| **Contributing** | Linux kernel patches (net, bpf, staging...) and open-source projects in general. |
+| **Ricing** | Gentoo + dwm + st + Kanagawa Dragon, suckless philosophy. |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dankdown10256&show_icons=true&locale=en&layout=compact" alt="dankdown10256" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dankdown10256&show_icons=true&locale=en" alt="dankdown10256" /></p>
+<div align="right">
+
+**~** `/DankDown10256`
+
+</div>
