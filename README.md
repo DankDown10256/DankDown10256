@@ -8,7 +8,7 @@
 
 ⚙️ I also work with **C** and **low-level** languages, with contributions to the **Linux kernel**.
 
-[![github](https://img.shields.io/badge/github-DankDown10256-313131?style=flat&labelColor=545454&color=313131)](https://github.com/DankDown10256) [![email](https://img.shields.io/badge/email-lucasp.linux%40gmail.com-313131?style=flat&labelColor=545454&color=313131)](mailto:lucasp.linux@gmail.com) [![views](https://komarev.com/ghpvc/?username=DankDown10256&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/DankDown10256)
+[![github](https://img.shields.io/badge/github-DankDown10256-313131?style=flat&labelColor=545454&color=313131)](https://github.com/DankDown10256) [![email](https://img.shields.io/badge/email-lucasp.linux%40gmail.com-313131?style=flat&labelColor=545454&color=313131)](mailto:lucasp.linux@gmail.com)
 
 <br>
 <br>
