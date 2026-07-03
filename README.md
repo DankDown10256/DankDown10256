@@ -20,7 +20,6 @@
 | --- | --- |
 | • [procsnap](https://github.com/DankDown10256/procsnap) - A minimalist Linux process profiler, written in C (GPLv2) | • [portfolio.dankdown.fr](https://portfolio.dankdown.fr) - My portfolio, CI/CD pipeline that fetches the LKML feed |
 | • [project-gen](https://github.com/DankDown10256/project-gen) - Rust CLI for generating project templates (MIT) | • [apicentraliser.dankdown.fr](https://apicentraliser.dankdown.fr) - API centralizer built with Flask (PBKDF2, Fernet, SSE) |
-| • *(to be added)* | • *(to be added)* |
 
 #### 🛠️ What am I working on?
 
