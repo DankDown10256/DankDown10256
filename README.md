@@ -12,7 +12,6 @@
 
 <br>
 <br>
-<br>
 
 #### 🌀 Projects
 
@@ -28,7 +27,7 @@
 | **Maintaining** | [procsnap](https://github.com/DankDown10256/procsnap) – Linux process profiler written in C. |
 | **Building** | My self-hosted infra under `dankdown.fr` (Portainer, Kaniko, CI/CD). |
 | **Contributing** | Linux kernel patches (net, bpf, staging...) and open-source projects in general. |
-| **Ricing** | Gentoo + dwm + st + Kanagawa Dragon, suckless philosophy. |
+| **Ricing** | Gentoo + dwm + st, suckless philosophy. |
 
 ---
 
