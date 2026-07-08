@@ -31,7 +31,7 @@
 
 ---
 
-<div align="center">
+<div align="right">
 
 **~** `/DankDown10256`
 
