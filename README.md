@@ -2,25 +2,25 @@
 
 ### Hey!
 
-👨‍💻 I'm **Lucas**, aka **DankDown10256**.
+I'm **Lucas**, aka **DankDown10256**.
 
-🌐 **Fullstack web** dev, TypeScript, Python/Flask, Rust/Axum, DevOps.
+**Fullstack web** dev, TypeScript, Python/Flask, Rust/Axum, DevOps.
 
-⚙️ I also work with **C** and **low-level** languages, with contributions to the **Linux kernel**.
+I also work with **C** and **low-level** languages, with contributions to the **Linux kernel**.
 
 [![github](https://img.shields.io/badge/github-DankDown10256-313131?style=flat&labelColor=545454&color=313131)](https://github.com/DankDown10256) [![email](https://img.shields.io/badge/email-lucasp.linux%40gmail.com-313131?style=flat&labelColor=545454&color=313131)](mailto:lucasp.linux@gmail.com)
 
 <br>
 <br>
 
-#### 🌀 Projects
+#### Projects
 
 | **Rust / C** | **Web / Other** |
 | --- | --- |
 | • [procsnap](https://github.com/DankDown10256/procsnap) - A minimalist Linux process profiler, written in C (GPLv2) | • [portfolio.dankdown.fr](https://portfolio.dankdown.fr) - My portfolio, CI/CD pipeline that fetches the LKML feed |
 | • [project-gen](https://github.com/DankDown10256/project-gen) - Rust CLI for generating project templates (MIT) | • [apicentraliser.dankdown.fr](https://apicentraliser.dankdown.fr) - API centralizer built with Flask (PBKDF2, Fernet, SSE) |
 
-#### 🛠️ What am I working on?
+#### What am I working on?
 
 | **Category** | **Description** |
 | --- | --- |
