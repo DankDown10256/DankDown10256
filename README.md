@@ -1,5 +1,3 @@
-<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7d%2F0e%2Fe4%2F7d0ee4e9154725a907dd3c69d82df0d4.jpg%3Fnii%3Dt&f=1&nofb=1&ipt=a51406e868d7b6e6fc7c015bc67d6bfe51d5de826dbae66668aad6197dbdf0d3" width="120" style="border-radius:50%">
-
 ### Hey!
 
 I'm **Lucas**, aka **DankDown10256**.
