@@ -5,8 +5,6 @@ I'm **Lucas**, aka **DankDown10256**.
 **Fullstack web** dev, TypeScript, Python/Flask, Rust/Axum, DevOps.
 
 I also work with **C** and **low-level** languages, with contributions to the **Linux kernel**.
- [![email](https://img.shields.io/badge/email-lucasp.linux%40gmail.com-313131?style=flat&labelColor=545454&color=313131)](mailto:lucasp.linux@gmail.com)
-
 <br>
 <br>
 
@@ -15,7 +13,7 @@ I also work with **C** and **low-level** languages, with contributions to the **
 | **Rust / C** | **Web / Other** |
 | --- | --- |
 | • [procsnap](https://github.com/DankDown10256/procsnap) - A minimalist Linux process profiler, written in C (GPLv2) | • [portfolio.dankdown.fr](https://portfolio.dankdown.fr) - My portfolio, CI/CD pipeline that fetches the LKML feed |
-| • [githarbor](https://github.com/DankDown10256/githarbor) - A self hosted GitHub repo bacup scheduler with web server interface | • [apicentraliser.dankdown.fr](https://apicentraliser.dankdown.fr) - API centralizer built with Flask (PBKDF2, Fernet, SSE) |
+| • [githarbor](https://github.com/DankDown10256/githarbor) - A self hosted GitHub repo backup scheduler with web server interface | • [apicentraliser.dankdown.fr](https://apicentraliser.dankdown.fr) - API centralizer built with Flask (PBKDF2, Fernet, SSE) |
 
 #### What am I working on?
 
