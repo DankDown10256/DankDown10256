@@ -15,7 +15,7 @@ I also work with **C** and **low-level** languages, with contributions to the **
 | **Rust / C** | **Web / Other** |
 | --- | --- |
 | • [procsnap](https://github.com/DankDown10256/procsnap) - A minimalist Linux process profiler, written in C (GPLv2) | • [portfolio.dankdown.fr](https://portfolio.dankdown.fr) - My portfolio, CI/CD pipeline that fetches the LKML feed |
-| • [project-gen](https://github.com/DankDown10256/project-gen) - Rust CLI for generating project templates (MIT) | • [apicentraliser.dankdown.fr](https://apicentraliser.dankdown.fr) - API centralizer built with Flask (PBKDF2, Fernet, SSE) |
+| • [githarbor](https://github.com/DankDown10256/githarbor) - A self hosted GitHub repo bacup scheduler with web server interface | • [apicentraliser.dankdown.fr](https://apicentraliser.dankdown.fr) - API centralizer built with Flask (PBKDF2, Fernet, SSE) |
 
 #### What am I working on?
 
